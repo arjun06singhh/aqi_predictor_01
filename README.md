@@ -82,3 +82,18 @@ Support For issues or questions regarding the setup or functionality, please che
 
 ## Screenshots of code
 
+<img width="259" height="307" alt="ss1" src="https://github.com/user-attachments/assets/cf3d9f7b-b438-449c-a7a0-0710978059ac" />
+
+<img width="257" height="356" alt="ss2" src="https://github.com/user-attachments/assets/183ee0a1-a6b7-4c73-a4c6-2642c7b0a4cb" />
+
+<img width="257" height="365" alt="ss3" src="https://github.com/user-attachments/assets/4c6a31c1-094a-47be-a0c1-48bcbb96b7ff" />
+
+<img width="256" height="347" alt="ss4" src="https://github.com/user-attachments/assets/6a509b96-51ea-4bcb-a881-2d6a144167fd" />
+
+<img width="257" height="238" alt="ss5" src="https://github.com/user-attachments/assets/0d14899b-b5ab-4c98-aa23-4044f973d9ab" />
+
+
+
+
+
+
