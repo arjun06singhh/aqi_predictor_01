@@ -79,3 +79,6 @@ Verify AQI calculations match standard formulas
 Expected Output Examples Good Air Quality (PM2.5=20): 😊 Fantastic air quality! Estimated AQI: 42 My suggestions: This is perfect air - get outside and enjoy it! Poor Air Quality (PM2.5=100): 😷 Poor air quality Estimated AQI: 185 My suggestions: Better to stay inside mostly, use air filters if available Project Structure
 
 Support For issues or questions regarding the setup or functionality, please check the dataset availability on Kaggle and ensure all dependencies are properly installed.
+
+## Screenshots of code
+
